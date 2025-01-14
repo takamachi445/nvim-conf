@@ -13,7 +13,7 @@ return {
         "python",
         "go",
         "rust",
-        "latex",
+        "typst",
       },
       sync_install = false,
       highlight = { enable = true },
